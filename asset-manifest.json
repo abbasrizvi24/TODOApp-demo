@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/abbasrizvi24/TODOApp-demo/static/css/main.f18a7e82.chunk.css",
+    "main.js": "/abbasrizvi24/TODOApp-demo/static/js/main.8552ad70.chunk.js",
+    "main.js.map": "/abbasrizvi24/TODOApp-demo/static/js/main.8552ad70.chunk.js.map",
+    "runtime-main.js": "/abbasrizvi24/TODOApp-demo/static/js/runtime-main.73e4282e.js",
+    "runtime-main.js.map": "/abbasrizvi24/TODOApp-demo/static/js/runtime-main.73e4282e.js.map",
+    "static/js/2.fe99dfe6.chunk.js": "/abbasrizvi24/TODOApp-demo/static/js/2.fe99dfe6.chunk.js",
+    "static/js/2.fe99dfe6.chunk.js.map": "/abbasrizvi24/TODOApp-demo/static/js/2.fe99dfe6.chunk.js.map",
+    "index.html": "/abbasrizvi24/TODOApp-demo/index.html",
+    "precache-manifest.dca4e67abcd7114600d32aea9525d73c.js": "/abbasrizvi24/TODOApp-demo/precache-manifest.dca4e67abcd7114600d32aea9525d73c.js",
+    "service-worker.js": "/abbasrizvi24/TODOApp-demo/service-worker.js",
+    "static/css/main.f18a7e82.chunk.css.map": "/abbasrizvi24/TODOApp-demo/static/css/main.f18a7e82.chunk.css.map",
+    "static/js/2.fe99dfe6.chunk.js.LICENSE.txt": "/abbasrizvi24/TODOApp-demo/static/js/2.fe99dfe6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73e4282e.js",
+    "static/js/2.fe99dfe6.chunk.js",
+    "static/css/main.f18a7e82.chunk.css",
+    "static/js/main.8552ad70.chunk.js"
+  ]
+}
